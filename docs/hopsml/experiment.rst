@@ -312,10 +312,10 @@ The experiment program (notebook or python file) and Anaconda environment yaml f
 All print statements performed in the wrapper function are saved in a log file for each experiment and is accessed by pressing the camera icon under Outputs.
 
 
-.. _experiments_service.png: ../_images/experiments_service.png
-.. figure:: ../imgs/experiments_service.png
-    :alt: TensorBoard
-    :target: `experiments_service.png`_
+.. _experiments_service.gif: ../_images/experiments_service.gif
+.. figure:: ../imgs/experiments_service.gif
+    :alt: Experiments service
+    :target: `experiments_service.gif`_
     :align: center
     :figclass: align-center
 

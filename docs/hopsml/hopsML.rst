@@ -92,10 +92,10 @@ Hopsworks supports cluster-wide Conda for managing Python library dependencies. 
 HopsML comes with a novel Experiments service for curating results of Machine Learning experiments, comparing hyperparameters and metrics for hyperparameter optimization tasks. In addition to attaching hyperparameters and metrics to experiments, files may also be attached such logs or images.
 
 
-.. _experiments_service.png: ../_images/experiments_service.png
-.. figure:: ../imgs/experiments_service.png
-    :alt: TensorBoard
-    :target: `experiments_service.png`_
+.. _experiments_service.gif: ../_images/experiments_service.gif
+.. figure:: ../imgs/experiments_service.gif
+    :alt: Experiments service
+    :target: `experiments_service.gif`_
     :align: center
     :figclass: align-center
 
@@ -122,10 +122,10 @@ The model repository lists all the models which have been exported in the projec
 In pipelines, users can query the model repository to find the best version for a given model name. This is done by supplying the name of the metric to consider and whether the value should be maximized or minimized to find the best version.
 For example below we see that version 3 is the best model given the accuracy metric, and is also the one which should be served for online inference. 
 
-.. _models_service.png: ../_images/models_service.png
-.. figure:: ../imgs/models_service.png
+.. _models_service.gif: ../_images/models_service.gif
+.. figure:: ../imgs/models_service.gif
     :alt: Model Repository
-    :target: `models_service.png`_
+    :target: `models_service.gif`_
     :align: center
     :figclass: align-center
 

@@ -52,10 +52,10 @@ In the following example the model version for MNIST with the highest accuracy i
     {'accuracy': '0.9098'}
 
 
-.. _models_service.png: ../_images/models_service.png
-.. figure:: ../imgs/models_service.png
-   :alt: Dataset browser
-   :target: `models_service.png`_
+.. _models_service.gif: ../_images/models_service.gif
+.. figure:: ../imgs/models_service.gif
+   :alt: Model Repository
+   :target: `models_service.gif`_
    :align: center
    :figclass: align-center
 
